@@ -1,0 +1,18 @@
+{
+    "addCandidate": "Añadir Candidato",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "email": "Correo Electrónico",
+    "phone": "Teléfono",
+    "address": "Dirección",
+    "education": "Educación",
+    "workExperience": "Experiencia Laboral",
+    "cv": "CV (PDF/DOCX)",
+    "submit": "Guardar Candidato",
+    "successMessage": "Candidato añadido exitosamente",
+    "errorMessage": "Error al añadir candidato",
+    "validation": {
+        "required": "Este campo es obligatorio",
+        "email": "Correo electrónico inválido"
+    }
+}

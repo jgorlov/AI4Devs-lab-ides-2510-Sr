@@ -1,0 +1,18 @@
+{
+    "addCandidate": "Add Candidate",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "education": "Education",
+    "workExperience": "Work Experience",
+    "cv": "CV (PDF/DOCX)",
+    "submit": "Save Candidate",
+    "successMessage": "Candidate added successfully",
+    "errorMessage": "Error adding candidate",
+    "validation": {
+        "required": "This field is required",
+        "email": "Invalid email"
+    }
+}
